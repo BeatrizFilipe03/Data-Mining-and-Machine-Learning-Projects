@@ -4,6 +4,7 @@ Two knowledge-discovery projects for the *Machine Learning and Data Mining* cour
  
 - **[Project A — Clinical decision support](projectA/)**: classification with 1R, ID3, Naive Bayes and Random Forest.
 - **[Project B — Market-basket analysis](projectB/)**: association rules on e-commerce browsing data.
+
 Each folder has its own README and full report.
  
 **Tech:** Python (pandas, scikit-learn) · PostgreSQL · Orange Data Mining
